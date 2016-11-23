@@ -1,0 +1,12 @@
+<script src="https://www.gstatic.com/firebasejs/3.6.1/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBVYNmhWVOfz5Lv__6IMo2B5HVGXUtN6yk",
+    authDomain: "vladkat-2590c.firebaseapp.com",
+    databaseURL: "https://vladkat-2590c.firebaseio.com",
+    storageBucket: "vladkat-2590c.appspot.com",
+    messagingSenderId: "997159301740"
+  };
+  firebase.initializeApp(config);
+</script>
